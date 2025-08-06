@@ -1,14 +1,13 @@
 {
-  "name": "vue-tel-input",
+  "name": "tel-imily",
   "version": "9.3.0",
   "description": "International Telephone Input with Vue",
   "author": "Steven Dao <iamstevendao@gmail.com>",
   "license": "MIT",
-  "homepage": "https://iamstevendao.com/vue-tel-input/",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstevendao/vue-tel-input.git"
+    "url": "git+https://github.com/ABDERRAZZAK-IMILY/tel-imily.git"
   },
   "exports": {
     ".": {
@@ -44,7 +43,7 @@
     "vite": "^5.0.2",
     "vitepress": "^1.0.0-rc.31",
     "vitest": "^1.4.0",
-    "vue-tsc": "^2.0.6"
+    "vue-tsc": "^2.2.12"
   },
   "keywords": [
     "vue",
